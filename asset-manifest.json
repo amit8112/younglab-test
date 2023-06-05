@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/younglab-test/static/css/main.3c66c88f.css",
+    "main.js": "/younglab-test/static/js/main.7a3f9bd8.js",
+    "index.html": "/younglab-test/index.html",
+    "main.3c66c88f.css.map": "/younglab-test/static/css/main.3c66c88f.css.map",
+    "main.7a3f9bd8.js.map": "/younglab-test/static/js/main.7a3f9bd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c66c88f.css",
+    "static/js/main.7a3f9bd8.js"
+  ]
+}
